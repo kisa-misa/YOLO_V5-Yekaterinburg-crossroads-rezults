@@ -20,7 +20,7 @@
 ![caption](https://user-images.githubusercontent.com/78149103/227795155-978fe2b8-067e-430c-bbda-e10368baa45f.jpg)![caption](https://user-images.githubusercontent.com/78149103/227794896-b3b3adba-bc93-4569-849c-db758675d76d.png)
 
 
-
+Еще поизучать:
 
 ⭐️ DiffusionInst: Diffusion Model for Instance Segmentation
 
