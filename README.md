@@ -1,4 +1,4 @@
-# YOLO_V5-Yekaterinburg-crossroads-rezults
+# YOLOV5-Yekaterinburg-crossroads-rezults
 
 
 ![b6ff4484dcb415cc4c09cc196afb198c](https://user-images.githubusercontent.com/78149103/227794680-16df1ebf-37db-4a1b-8dc2-101684f23b4d.png)![b6ff4484dcb415cc4c09cc196afb198c](https://user-images.githubusercontent.com/78149103/227794906-b68e2197-b72f-473f-afc9-44a4db6bb668.png)
