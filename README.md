@@ -70,3 +70,22 @@ Code: https://github.com/texasinstruments/edgeai-yolov5
 Paper: https://arxiv.org/abs/2204.06806v1
 
 Dataset: https://paperswithcode.com/dataset/coco
+
+cityscapes overview 
+https://www.cityscapes-dataset.com/dataset-overview/
+cityscapes data
+https://github.com/tensorflow/datasets/tree/master/tensorflow_datasets/datasets/cityscapes
+cityscapes projects
+https://github.com/SegmentationBLWX/sssegmentation/blob/main/ssseg/configs/annnet/annnet_resnet50os16_cityscapes.py
+https://github.com/NVIDIA/semantic-segmentation
+
+visdrone data
+https://github.com/VisDrone/VisDrone-Dataset
+
+xview data 
+https://www.kaggle.com/code/nnljnn/xview-setup
+
+visdrone/xview project
+https://github.com/fcakyon/small-object-detection-benchmark
+
+GitHub (https://github.com/tensorflow/datasets/tree/master/tensorflow_datasets/datasets/cityscapes)
