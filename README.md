@@ -68,8 +68,11 @@ Torchvision
 ![2022_08_10_ППП_стоянки_кам_3_191356_online_video_cutter_com](https://user-images.githubusercontent.com/78149103/229362217-3603b2b1-85bb-444f-aed0-900ef2a52067.gif)
 YOLOv5
 ![Untitled (3)](https://user-images.githubusercontent.com/78149103/229361764-3f2ad1f0-727f-4b03-a99e-d9ca3860973b.gif)
-Torchvision
+Torchvision confidence_threshold = 0.4
 ![хуй (2)](https://user-images.githubusercontent.com/78149103/229373334-b98d64b8-c4d3-40b3-a87d-db3dfb675d7b.gif)
+Torchvision confidence_threshold = 0.7
+![аня](https://user-images.githubusercontent.com/78149103/229375853-8368d48b-38a8-4d8e-86db-94be10f20aee.gif)
+
 
 
 
