@@ -19,6 +19,8 @@
 ![square_320_1a3bf241ee56bcd4a884498a1e4f9ee2](https://user-images.githubusercontent.com/78149103/227795201-4eb6215c-f62c-4f24-bac2-9804087f0522.jpg)![square_320_1a3bf241ee56bcd4a884498a1e4f9ee2](https://user-images.githubusercontent.com/78149103/227794834-f674d6d8-ec8c-4c8c-91bd-c0057cfe0d2f.png)
 ![caption](https://user-images.githubusercontent.com/78149103/227795155-978fe2b8-067e-430c-bbda-e10368baa45f.jpg)![caption](https://user-images.githubusercontent.com/78149103/227794896-b3b3adba-bc93-4569-849c-db758675d76d.png)
 
+![2022_08_10_ППП_стоянки_кам_3_191356_online_video_cutter_com](https://user-images.githubusercontent.com/78149103/229362217-3603b2b1-85bb-444f-aed0-900ef2a52067.gif)
+
 ![Untitled (3)](https://user-images.githubusercontent.com/78149103/229361764-3f2ad1f0-727f-4b03-a99e-d9ca3860973b.gif)
 
 Еще поизучать:
