@@ -69,6 +69,8 @@ Torchvision
 YOLOv5
 ![Untitled (3)](https://user-images.githubusercontent.com/78149103/229361764-3f2ad1f0-727f-4b03-a99e-d9ca3860973b.gif)
 Torchvision
+![хуй (2)](https://user-images.githubusercontent.com/78149103/229373334-b98d64b8-c4d3-40b3-a87d-db3dfb675d7b.gif)
+
 
 
 Еще поизучать:
